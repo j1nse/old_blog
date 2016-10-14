@@ -1557,7 +1557,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #530b22;
+  background: #b8bdcf;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2127,7 +2127,7 @@ a.search-result {
   overflow: hidden;
 }
 body {
-  background: url("/images/space.png");
+  background: url("/images/reborn.jpg");
 }
 @media (max-width: 767px) {
   .header-inner,
